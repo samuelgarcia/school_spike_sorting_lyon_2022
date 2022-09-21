@@ -1,12 +1,8 @@
 # Data analysis spike sorting - Day 3
 
+Here is the schedulde for day 3 for the data analysis school in Lyon, September 2022
 
-
-Here is the schedulde for day 3 for the data analysis school in Lyon, October 2021
-https://www.gdr-neuralnet.cnrs.fr/fr/node/63
-
-
-## Instalation and download
+## Installation and download
 
 Packages to be installed **before the school** (included in the provided environment file):
  * numpy/scipy/sklearn/matplotlib/
@@ -15,29 +11,12 @@ Packages to be installed **before the school** (included in the provided environ
  * jupyter
  * tridesclous
  * spykingcircus
- * herdingspikes
- * montainsort
 
 Datasets to be downloaded **before the school**:
  * "cambridge_data.dat" for practice 2
- * "templates_Neuronexus-32_100.h5" for practice 3
+ * "recordings_Neuronexus-32.hdf5" for practice 3
 
-
-# Schedule
-
-
-Overview 
-Pause 11.00 - 11.15
-Spikeinterface slides 11.15 - 11.45
-Notebook spikeinterface 11.45 - 13.00
-
-Lunch 13.00 - 14.00
-
-Demo (avec sigui mais pas phy) 14.00 - 14.15
-Handson pré-maché 14.15 - 15.45
-Pause 15.45 - 16.00
-Draft handson comparison / probe design / your data 16.00 - 17.30
-
+https://drive.google.com/drive/folders/1DuPMypbwLGfBQmXT2NOlDiUS_QVnCQFd
 
 
 
